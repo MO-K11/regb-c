@@ -1,0 +1,8 @@
+{
+"OwnerPermissions": ["", ""],
+"ManagerPermissions": ["", ""],
+"RoleManagerPermissions": ["", ""],
+"AllPenalsPermissions": [""],    
+"RegisterPermission": "",
+"ExtraPermissions": [""]
+}
